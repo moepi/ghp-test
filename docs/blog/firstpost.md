@@ -1,5 +1,5 @@
 ---
-layout: post 1
+layout: post
 title: "test post 1"
 date: 2020-12-29
 permalink: /blog/:year/:month/:day/:title
