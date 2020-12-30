@@ -1,4 +1,3 @@
-# links
+# main
 
-[about](./about)
-[blog](./blog)
+here is some content
