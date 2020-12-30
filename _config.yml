@@ -3,4 +3,4 @@ collections:
   authors:
   posts:
     output: true
-    permalink: /ghp-test/:year/:month/:day/:title:output_ext
+    permalink: /ghp-test/posts/blog/:short_year/:month/:day/:title:output_ext
