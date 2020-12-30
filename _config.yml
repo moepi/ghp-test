@@ -1,5 +1,4 @@
 theme: jekyll-theme-tactile
 footer-links:
   github: moepi
-github:
-  another_url: https://moepi.github.com/ghp-test
+baseurl: /ghp-test
