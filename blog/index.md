@@ -6,6 +6,6 @@ title: ghp test blog
 <h1>{{ page.title }}</h1>
 <ul class="posts">
 	{% for post in site.posts %}
-	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.relative_url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.post_url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	{% endfor %}
 </ul>
