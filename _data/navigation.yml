@@ -1,6 +1,6 @@
 - name: Home
-  link: /
+  link: /ghp-test/
 - name: About
-  link: /about.html
+  link: /ghp-test/about
 - name: Blog
-  link: /blog.html
+  link: /ghp-test/blog
