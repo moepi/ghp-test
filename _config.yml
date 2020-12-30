@@ -4,3 +4,9 @@ footer-links:
 collections:
   authors:
     output: true
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
