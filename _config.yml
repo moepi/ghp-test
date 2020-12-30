@@ -1,8 +1,6 @@
 theme: jekyll-theme-tactile
 collections:
   authors:
-defaults:
-  - scope:
-      type: posts
-    values:
-      permalink: /ghp-test/:year/:month/:day/:title:output_ext
+  posts:
+    output: true
+    permalink: /ghp-test/:year/:month/:day/:title:output_ext
