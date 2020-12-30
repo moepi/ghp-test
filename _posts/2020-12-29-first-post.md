@@ -2,7 +2,7 @@
 layout: post
 title: first1stpost
 author: moepi
-permalink: /ghp-test/:year/:month/:day/:title.html
+permalink: /ghp-test/:year/:month/:day/:title/
 ---
 
 this is a test
