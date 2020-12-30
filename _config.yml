@@ -6,12 +6,6 @@ collections:
     output: true
 defaults:
   - scope:
-      path: ""
-      type: authors
-    values:
-      layout: author
-      permalink: /:collection/:name
-  - scope:
       type: posts
     values:
       permalink: /:year/:month/:day/:title:output_ext
