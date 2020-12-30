@@ -10,3 +10,7 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+  - scope:
+      type: "posts"
+    values:
+      permalink: /:year/:month/:day/:title.html
