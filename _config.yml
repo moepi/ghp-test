@@ -1,9 +1,6 @@
 theme: jekyll-theme-tactile
-footer-links:
-  github: moepi
 collections:
   authors:
-    output: true
 defaults:
   - scope:
       type: posts
