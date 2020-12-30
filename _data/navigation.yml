@@ -2,5 +2,7 @@
   link: /ghp-test/
 - name: About
   link: /ghp-test/about
+- name: Staff
+  link: /ghp-test/staff
 - name: Blog
   link: /ghp-test/blog
