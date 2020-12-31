@@ -1,6 +1,8 @@
 theme: jekyll-theme-tactile
+url: https://moepi.github.io
+baseurl: /ghp-test
 collections:
   authors:
   posts:
     output: true
-    permalink: /ghp-test/:year/:month/:day/:title:output_ext
+    permalink: /:year/:month/:day/:title:output_ext
