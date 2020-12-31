@@ -1,6 +1,6 @@
 ---
 layout: post
-title: first1stpost
+title: Schatzkiste
 authors: moepi
 ---
 
