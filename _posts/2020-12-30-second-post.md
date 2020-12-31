@@ -1,7 +1,7 @@
 ---
 layout: post
 title: test2
-author: moepi
+authors: moepi
 ---
 
 this is just another test

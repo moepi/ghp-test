@@ -1,7 +1,7 @@
 ---
 layout: post
 title: first1stpost
-author: moepi
+authors: moepi
 ---
 
 this is a test
