@@ -18,6 +18,6 @@ So sieht sein entworfenes PCB aus. Hierbei kommt ein ESP32 statt ESP8266 zum Ein
 
 Cron1c’s hat eine eigene Disyplayausgabe erstellt. Diese wurde in der Zwischenzeit in das Projekt intregriert. 
 
-![display case]({{ site.basename }}/images/IMG_20190812_131532__01.jpeg)
+![display case]({{ site.baseurl }}/images/IMG_20190812_131532__01.jpeg)
 
 Link zum Code: [ranciliopid-display](https://github.com/cron1c/ranciliopid-display)
